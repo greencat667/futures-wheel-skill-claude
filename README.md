@@ -18,7 +18,9 @@ Different from a persona panel (which tests how people react to something) or a 
 
 ## Installation
 
-Copy the `futures-wheel/` folder into your project's `.claude/skills/` directory:
+**Ask Claude to set it up for you.** If you're using Claude Code or Claude Cowork, you can just say something like *"install the futures-wheel skill from github.com/greencat667/futures-wheel-skill-claude"* and Claude will clone the repo and put it in the right place — you don't need to do this by hand.
+
+Or do it yourself: copy the `futures-wheel/` folder into your project's `.claude/skills/` directory:
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/futures-wheel-skill-claude.git
