@@ -23,7 +23,7 @@ Different from a persona panel (which tests how people react to something) or a 
 Or do it yourself: copy the `futures-wheel/` folder into your project's `.claude/skills/` directory:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/futures-wheel-skill-claude.git
+git clone https://github.com/greencat667/futures-wheel-skill-claude.git
 cp -r futures-wheel-skill-claude/futures-wheel/ your-project/.claude/skills/futures-wheel/
 ```
 
