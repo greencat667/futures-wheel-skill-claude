@@ -50,6 +50,10 @@ futures-wheel-skill-claude/
 └── LICENSE
 ```
 
+## Using this with another AI assistant
+
+Nothing here is Claude-specific — `futures-wheel/SKILL.md` is a plain instruction file. To use it with ChatGPT or another AI assistant, give it this repo's URL (or paste in `SKILL.md`) and ask it to set itself up and run the futures wheel on your topic. It's a one-shot request — describe the change, get three rounds of consequences and an HTML wheel back — so there's nothing to schedule; the assistant just needs to be able to hold a multi-persona, multi-round exercise in one conversation and write out the HTML file at the end.
+
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) — note this repo isn't actively maintained, so response times on issues and PRs will be slow to nonexistent.
