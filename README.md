@@ -29,6 +29,12 @@ cp -r futures-wheel-skill-claude/futures-wheel/ your-project/.claude/skills/futu
 
 Claude will pick it up automatically from `available_skills` next time you start a session.
 
+## Example prompt
+
+Once installed, just ask Claude something like:
+
+> "Run a futures wheel on a national ban on new petrol car sales from 2030 — what are the second and third-order consequences?"
+
 ## A note on what this is
 
 The personas are AI-generated and their proposed consequences are simulated, not predicted. The value is breadth and structure — surfacing possibilities a single analyst or small team might miss — not forecasting accuracy. Treat the output as hypothesis generation for further investigation, not as a forecast to act on directly.
